@@ -1,2 +1,2 @@
 # OnlineFoodOrder
-Online food ardering application
+Online food ordering application
